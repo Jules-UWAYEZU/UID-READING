@@ -1,4 +1,4 @@
-# UID-READING
+# UID-READING (Arduino MEGA)
 Source code to read RFID Card and TAG UID
 #include <SPI.h>
 #include <MFRC522.h>
